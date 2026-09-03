@@ -1,5 +1,4 @@
-# Python screening service — the only service with business logic.
-# Built and run as an individual container (no docker-compose)
+
 FROM python:3.12-slim
 WORKDIR /app
 
